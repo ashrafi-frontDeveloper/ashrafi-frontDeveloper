@@ -20,9 +20,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafi-frontDeveloper&show_icons=true&theme=tokyonight)
-
-
 ## Stats 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ashrafi-frontDeveloper&show_icons=true&theme=tokyonight)](https://github.com/ashrafi-frontDeveloper)
 
