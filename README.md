@@ -4,7 +4,7 @@
  a front end programmer with the React library. A hardworking boy who loves coding 💻
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashrafi.dev/)
-[![Linkedin](https://img.shields.io/badge/connect_me_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-ashrafi-b736032b4/)
+[![Linkedin](https://img.shields.io/badge/connect_me_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohammad-ashrafi-b736032b4/](https://www.linkedin.com/in/mohammad-ashrafi-56a258365/))
 [![Telegram](https://img.shields.io/badge/connect_me_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitto_dev7)
 
 ## 🛠 Language and Frameworks
