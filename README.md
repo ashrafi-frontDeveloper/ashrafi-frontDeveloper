@@ -31,8 +31,3 @@ Code, coffee, and constant learning 💻☕
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashrafi-frontDeveloper&theme=onedark&no-bg=true&no-frame=true&title=Stars,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 Contribution Graph
-
-![snake gif](https://github.com/ashrafi-frontDeveloper/ashrafi-frontDeveloper/blob/output/github-contribution-grid-snake.svg)
-
