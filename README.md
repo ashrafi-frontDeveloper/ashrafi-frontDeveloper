@@ -21,8 +21,4 @@ Code, coffee, and constant learning 💻☕
 
 ## Stats 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ashrafi-frontDeveloper&show_icons=true&theme=tokyonight)](https://github.com/ashrafi-frontDeveloper)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafi-frontDeveloper&langs_count=6&theme=tokyonight)](https://github.com/ashrafi-frontDeveloper)
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashrafi-frontDeveloper&theme=onedark&no-bg=true&no-frame=true&title=Stars,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
