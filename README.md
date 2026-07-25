@@ -36,18 +36,6 @@ and sharing my progress through real projects.
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
-
 ### Tools
 
 <p>
