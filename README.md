@@ -95,7 +95,11 @@ and sharing my progress through real projects.
 </a>
 
 <a href="mailto:ashrafi.dev221184@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img
+    src="https://skillicons.dev/icons?i=gmail"
+    alt="Email"
+    height="48"
+  />
 </a>
 
 </p>
