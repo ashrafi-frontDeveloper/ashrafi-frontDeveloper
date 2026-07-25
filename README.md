@@ -20,7 +20,3 @@ Code, coffee, and constant learning 💻☕
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-20232A?style=for-the-badge&logo=react-router&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-## Stats 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ashrafi-frontDeveloper&show_icons=true&theme=tokyonight)](https://github.com/ashrafi-frontDeveloper)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafi-frontDeveloper&langs_count=6&theme=tokyonight)](https://github.com/ashrafi-frontDeveloper)
