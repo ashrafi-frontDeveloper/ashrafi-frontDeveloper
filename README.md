@@ -51,7 +51,6 @@ and sharing my progress through real projects.
 | 🛒 FitLand | Responsive E-commerce website |
 | 🤖 AI Resume Analyzer | AI-powered resume analysis application |
 | 📝 React Projects | Collection of React mini-projects while learning |
-| 🔐 React Registration Form | Authentication and form validation practice |
 
 ---
 
@@ -91,11 +90,11 @@ and sharing my progress through real projects.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/ashrafi-developer">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ashrafi.dev221184@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
