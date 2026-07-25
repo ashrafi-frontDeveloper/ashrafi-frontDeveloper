@@ -1,22 +1,122 @@
+<h1 align="center">Hi 👋, I'm Mohammad Ashrafi</h1>
 
-## Front-End Developer (React,Next)
-#### Hello , I am Mohammad 👋,
-Just a curious front-end guy crafting cool websites with React, Next.js & a sprinkle of GSAP magic ✨  
-Code, coffee, and constant learning 💻☕
+<p align="center">
+Frontend Developer • IT Student • Open Source Learner
+</p>
 
+<p align="center">
+I'm passionate about building modern web applications, learning new technologies,
+and sharing my progress through real projects.
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashrafi.dev/)
-[![Linkedin](https://img.shields.io/badge/connect_me_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrafi-developer/)
-[![Telegram](https://img.shields.io/badge/connect_me_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashrafi_77)
+---
 
-## 🛠 Language and Frameworks
+## 👨‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-20232A?style=for-the-badge&logo=react-router&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- 🎓 IT Student
+- 🌱 Currently learning **Next.js**, **TypeScript**, and modern React development
+- 💻 Interested in Front-end Development and UI Engineering
+- 🚀 Building projects to improve my skills every day
+- 🤝 Open to collaboration on beginner-friendly open source projects
+- 📚 Always learning something new
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🛒 FitLand | Responsive E-commerce website |
+| 🤖 AI Resume Analyzer | AI-powered resume analysis application |
+| 📝 React Projects | Collection of React mini-projects while learning |
+| 🔐 React Registration Form | Authentication and form validation practice |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashrafi-frontDeveloper&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafi-frontDeveloper&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ashrafi-frontDeveloper&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Next.js
+- TypeScript
+- Clean Architecture
+- Open Source Contribution
+- Advanced React Patterns
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+
+<a href="https://github.com/ashrafi-frontDeveloper">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> "Learning never exhausts the mind."
+
+— Leonardo da Vinci
